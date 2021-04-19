@@ -1,4 +1,5 @@
-{ "homepage": "http://{naweli777}.github.io/{CoronaUpdate}",
+{
+  "homepage": "http://{naweli777}.github.io/{COVIDTRACKER1}",
   "name": "coco",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
